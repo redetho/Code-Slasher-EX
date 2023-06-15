@@ -41,7 +41,7 @@ Utilize sua Espada para desviar de bombas e destruir objetos para desbloquear se
 ANDROID (APK)
 https://apkpure.com/p/com.UnityTechnologies.com.unity.template.urpblank
 
-## Pré-requisitos ⚠️    
+## Pré-requisitos ✔️    
 Adnroid 7; 
 - testado num galaxy s22.
 
