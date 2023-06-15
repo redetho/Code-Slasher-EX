@@ -13,21 +13,11 @@
 
 🔹 Como rodar a aplicação
 
-🔹 Testes realizados
-
-🔹 Banco de Dados
-
 🔹 Linguagens, dependências e libs utilizadas
 
-🔹 Novas Recursos
-
-🔹 Resolvendo problemas
-
-🔹 Recursos inseridos 
+🔹 Resolvendo problemas 
 
 🔹 Desenvolvedores/Contribuintes
-
-🔹 Informações Extras
 
 ## Descrição do projeto
 Code Slasher EX é um jogo arcade onde você, como um hacker num metaverso futurista precisa deter códigos maliciosos que querem se espalhar pelo local, disfarçados de discors de música e fitas-cassete. 
